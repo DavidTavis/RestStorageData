@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrudExample</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="add_driver">Add Driver</string>
+    <string name="update_driver">Driver update</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+</resources>
