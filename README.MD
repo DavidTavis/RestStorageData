@@ -1,0 +1,2 @@
+In this app i have organized an example of communication between client and server through the REST API web service. This app allows to save some data(information of drivers of cars) in local DB and save the data to server.
+I used the following stack of technologies:Retrofit2, OkHttp3, Loaders, SQLite, ContentProvider, RecyclerView, CardView.
